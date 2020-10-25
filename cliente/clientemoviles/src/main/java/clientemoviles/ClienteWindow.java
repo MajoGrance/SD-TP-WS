@@ -72,7 +72,7 @@ public class ClienteWindow extends JFrame {
 	 * Create the frame.
 	 */
 	public ClienteWindow() {
-		setTitle("Servidor moviles - ubicacion");
+		setTitle("Cliente moviles - ubicacion");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 824, 562);
 		getContentPane().setLayout(null);
